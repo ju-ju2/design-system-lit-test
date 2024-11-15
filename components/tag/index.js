@@ -1,6 +1,5 @@
-import { Tag as a } from "./tag.js";
-const t = a;
+import { a as f } from "../../design-system-lit-test.js-DfGgLi23.js";
 export {
-  t as default
+  f as default
 };
 //# sourceMappingURL=index.js.map

@@ -1,9 +1,6 @@
-import o from "./tag/index.js";
-const a = {
-  Tag: o
-};
+import { a as f, c as o } from "../design-system-lit-test.js-DfGgLi23.js";
 export {
-  o as Tag,
-  a as default
+  f as Tag,
+  o as default
 };
 //# sourceMappingURL=index.js.map

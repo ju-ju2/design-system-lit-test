@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../../src/components/index.ts"],"sourcesContent":["import Tag from \"./tag\";\n\nconst components = {\n  Tag,\n};\n\nexport { Tag };\nexport default components;\n"],"names":["components","Tag"],"mappings":";AAEA,MAAMA,IAAa;AAAA,EACjB,KAAAC;AACF;"}
+{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":";"}
