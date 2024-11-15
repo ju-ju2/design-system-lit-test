@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../src/components/tag/index.ts"],"sourcesContent":["import { Tag } from \"./tag\";\nexport type { TagProps } from \"./tag\";\nexport default Tag;\n"],"names":["Tag"],"mappings":";AAEA,MAAAA,IAAeA;"}
